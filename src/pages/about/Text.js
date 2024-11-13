@@ -10,7 +10,7 @@ const Text = () => {
                 Markaların hedef kitlelerine etkili bir şekilde ulaşabilmesi için dijital reklamcılık, pazarlama stratejilerinin merkezinde yer almaktadır.
                 Bu noktada, Ankara’nın önde gelen dijital reklam ajanslarından biri olan Nano Medya karşımıza çıkmaktadır.
                 Nano Medya, işletmelere özel çözümler sunarak marka bilinirliği ve satışları artırma konusunda önemli katkılarda bulunmaktadır.
-                Nano Medya’nın sunduğu stratejik dijital çözümler, işletmelerin dijital dünyada rekabet avantajı elde etmelerine olanak tanımaktadır.
+                Nano  Medya’nın sunduğu stratejik dijital çözümler, işletmelerin dijital dünyada rekabet avantajı elde etmelerine olanak tanımaktadır.
             </p>
             <br />
             <p>
